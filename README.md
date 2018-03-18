@@ -1,2 +1,5 @@
 # v2ray-onekey
-V2Ray 一键部署脚本
+## Use:
+```bash
+curl -O https://raw.githubusercontent.com/1715173329/v2ray-onekey/master/v2ray-go.sh && bash v2ray-go.sh
+```
