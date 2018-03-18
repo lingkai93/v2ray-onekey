@@ -1,0 +1,12 @@
+{
+    "inbound":{
+        "port":8080,
+        "protocol":"socks",
+        "settings":{}
+    },
+    "outbound":{
+        "protocol":"freedom",
+        "settings":{},
+        "tag":"direct"
+    }
+}

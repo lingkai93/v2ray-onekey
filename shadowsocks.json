@@ -1,0 +1,14 @@
+{
+    "inbound":{
+        "port":8080,
+        "protocol":"shadowsocks",
+        "settings":{
+            "method":"aes-256-gcm",
+            "password":"sspwd"
+        }
+    },
+    "outbound":{
+        "protocol":"freedom",
+        "settings":{}
+    }
+}

@@ -1,0 +1,9 @@
+https://V2rayAddress
+{
+  root /etc/v2ray/pages
+  tls website-tls@gmail.com
+  proxy /fuckgfw_gfwmotherfuckingboom/PathUUID localhost:V2RayListenPort {
+    websocket
+    header_upstream -Origin
+  }
+}
